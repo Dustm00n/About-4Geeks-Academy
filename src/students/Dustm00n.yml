@@ -11,3 +11,58 @@ last_name: Serrano
 
 
 summary: Estudiante de Publicidad,Con interes de poder desevolverme dentro del  mundo del desarrollo.
+
+
+avatar: 
+
+
+
+email: gerardoserranosoto@gmail.com
+phone: +56958684665
+linkedin: https://www.linkedin.com/in/gerardo-serrano-4b5aa4215/
+
+
+
+github: https://github.com/Dustm00n
+
+
+languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Technical 
+
+
+        interests:
+      - item: Video Games
+
+      - item: movies
+
+
+Education: 
+  degree: Professional 
+  institute: Duoc UC 
+  university_logo: https://www.duoc.cl/wp-content/uploads/2021/03/logo_duoc-01.jpg
+
+
+
+
+
+
+
+skills:
+    toolset:
+      - name: Javascript
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 90%
+      
+      - name: React Js
+        level: 75%
+      
+      - name: SQL
+        level: 50%
+      
+
